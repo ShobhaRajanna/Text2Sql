@@ -1,0 +1,27 @@
+[
+    {
+        "question": "How many pseudo users were active in the last 7 days but inactive in the last 2 days as of January 7, 2021?",
+        "schema": "ga4",
+        "generated_sql": "Wie many pseudo users were active in the last 7 days but inactive in the last 2 days as of January 7, 2021? | Schema: ga4"
+    },
+    {
+        "question": "Find the top-selling product among customers who bought 'Youtube Men\u2019s Vintage Henley' in July 2017, excluding itself.",
+        "schema": "ga360",
+        "generated_sql": "'Youtube Men\u2019s Vintage Henley' in July 2017, excluding itself. | Schema: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360: ga360."
+    },
+    {
+        "question": "I wonder how many days between the first transaction and the first visit both in Feburary 2017 for each transacting visitor, along with the device used in the transaction.",
+        "schema": "ga360",
+        "generated_sql": ": ga360"
+    },
+    {
+        "question": "What's the most common next page for visitors who were part of \"Data Share\" campaign and after they accessed the page starting with '/home' in January 2017. And what's the maximum duration time (in seconds) when they visit the corresponding home page?",
+        "schema": "ga360",
+        "generated_sql": "SQL: What's the most common next page for visitors who were part of \"Data Share\" campaign and after they accessed the page starting with '/home' in January 2017? | Schema: ga360."
+    },
+    {
+        "question": "Identify the longest number of days between the first visit and the last recorded event (either the last visit or the first transaction) for a user where the last recorded event was associated with a mobile device.",
+        "schema": "ga360",
+        "generated_sql": "the last recorded event (either the last visit or the first transaction). | Schema: ga360"
+    }
+]
